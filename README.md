@@ -9,18 +9,17 @@
 - 📝 I’m looking to collaborate on Frontend or backend projects.
 - ⚡  I’m currently working on a personal project [OFRIEND] well it's personal i cant disclose it's development stages as of now.
 - 💬 Ask me about anything on **JAVASCRIPT, CSS, SCSS, HTML, _LIFE_...**
-- 👯 Checkout my other github repositories at [freestyletear](https://twitter.com/muthoniwilsonk)
-- 📫 How to reach me: [@developerwilson](https://www.linkedin.com/in/WilsonKinyua/)
+- 👯 Checkout my other github repositories at [freestyletear](https://github.com/freestyletear?tab=repositories)
 
+---
 
 ## 🔭 My Github Stats
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=freestyletear&show_icons=true&locale=en&layout=compact&theme=cobalt" alt="freestyletear github status on top languages used" /></p>
 
-<a>
-  <a align="left" href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=wilsonkinyua&&show_icons=true&theme=cobalt">
-  <img src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=wilsonkinyua&show_icons=true&theme=cobalt&locale=en&layout=compact" />
-</a><br>-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=freestyletear&show_icons=true&locale=en&theme=cobalt" alt="freestyletear github status on extra pins" /></p>
 
-<a align="left" href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=wilsonkinyua&show_icons=true&theme=cobalt">
+
+<a align="left" href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=freestyletear&show_icons=true&theme=cobalt">
   <img src = "https://github-readme-streak-stats.herokuapp.com/?user=freestyletear&show_icons=true&theme=cobalt&locale=en&layout=compact">
 </a>
 <br><br>
