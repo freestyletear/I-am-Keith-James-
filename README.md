@@ -6,12 +6,12 @@
 <a href="https://arbeitnow.com/?utm_source=awesome-github-profile-readme"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=arbeitnow&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/></a>
 
 
-<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/network/members"><img src="https://img.shields.io/github/forks/abhisheknaiidu/awesome-github-profile-readme" alt="Forks Badge"/></a>
+<a href="https://github.com/freestyletear/I-am-Keith-James-/network/members"><img src="https://img.shields.io/github/forks/freestyletear/I-am-Keith-James-" alt="Forks Badge"/></a>
 
 
-<img alt="Awesome GitHub Profile Readme" src="assets/agpr.gif"> </img>
+<img alt="Awesome GitHub Profile Readme" src="https://raw.githubusercontent.com/freestyletear/I-am-Keith-James-/master/images/11.gif"> </img>
 
-<i>Loved the projects? Please consider [donating](+254788507559) to help me improve!</i>
+<i>Loved the projects? Please consider **donating**  to +254788507559 to help me improve!</i>
 
 </div>
 
@@ -23,8 +23,16 @@
 - 📝 I’m looking to collaborate on Frontend or ~~backend projects~~.
 - ⚡  I’m currently working on a personal project [OFRIEND] well it's personal i cant disclose it's development stages as of now.
 - 💬 Ask me about anything on **~~JAVASCRIPT~~, CSS, ~~SCSS~~, HTML, BOOTSTRAP and..._LIFE_..**
-- 👯 Checkout my other github repositories at [freestyletear](https://github.com/freestyletear?tab=repositories)
+- 👯 Checkout my other github repositories at [freestyletear](https://github.com/freestyletear?tab=repositories), if this opption is not available then here is a list of some of the projects i have done:-
 
+| Link                                                                       |
+|:--------------------------------------------------------------------------:|
+| https://freestyletear.github.io/Anita-s_Kitchen/                           |
+| https://freestyletear.github.io/my-fevorite-band/                          |
+| https://freestyletear.github.io/Keith-_James_Delani_Studio/                |
+| https://freestyletear.github.io/Keith_James_Akan_Name_Generator/?gender=on |
+| https://freestyletear.github.io/BTRD_moringa/                              |
+| And more to come...                                                        |
 ---
 
 ## 🔭 My Github Stats
@@ -45,8 +53,7 @@
 
 ## License **MIT**
 
-[![CC0](https://licensebuttons.net/l/publicdomain/88x31.png)](https://raw.githubusercontent.com/freestyletear/
-I-am-Keith-James-/master/LICENSE)
+[![CC0](https://licensebuttons.net/l/publicdomain/88x31.png)](https://raw.githubusercontent.com/freestyletear/I-am-Keith-James-/master/LICENSE)
 
 ---
 
