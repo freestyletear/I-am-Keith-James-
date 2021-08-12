@@ -94,7 +94,7 @@ If you find a bug (the website couldn't handle the query and / or gave undesired
 - [Moringa School](https://moringaschool.com) for shadding the light for not just me but the future...
 - [Over view video of the school.](https://www.youtube.com/watch?v=AtozUZ_GZRw&t=173s)
 
-<p align="left"> <img src="https://raw.githubusercontent.com/freestyletear/I-am-Keith-James-/master/images/ms.jpeg" alt="Image showcasing Moringa School logo" width="300" height="200"/>  <img src="https://raw.githubusercontent.com/freestyletear/I-am-Keith-James-/master/images/ms2.jpeg" alt="Image showcasing Moringa School Co-Founder" width="300" height="200"/> </p> 
+<p align="left"> <img src="https://raw.githubusercontent.com/freestyletear/I-am-Keith-James-/master/images/ms.png" alt="Image showcasing Moringa School logo" width="300" height="200"/>  <img src="https://raw.githubusercontent.com/freestyletear/I-am-Keith-James-/master/images/ms2.jpeg" alt="Image showcasing Moringa School Co-Founder" width="300" height="200"/> </p> 
 
 - [Slumcode](http://slumcode.org/) for...being there, thanks team.
 
