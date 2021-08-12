@@ -1,14 +1,28 @@
 <h1 align="center">I am Keith James 😃</h1>
-<h3 align="center"> Currently studying front-end development/ designing</h3>  
+<h3 align="center"> Currently studying front-end development/ designing soon to become either a Fullstack developer/ Android Developer or just a computer programmer</h3> 
+
+<div align="center">
+<img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
+<a href="https://arbeitnow.com/?utm_source=awesome-github-profile-readme"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=arbeitnow&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/></a>
+
+
+<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/network/members"><img src="https://img.shields.io/github/forks/abhisheknaiidu/awesome-github-profile-readme" alt="Forks Badge"/></a>
+
+
+<img alt="Awesome GitHub Profile Readme" src="assets/agpr.gif"> </img>
+
+<i>Loved the projects? Please consider [donating](+254788507559) to help me improve!</i>
+
+</div>
 
  ### Hi there 👋,
 
  I am currently on the path of becoming computer programmer/ web developer/ designer and expanding more and more by the minute. I am based in Nairobi, Kenya. I decided to join this kind of career/ hobby path because i would love to be able to solve challenges with this kind of knowledge that i am gainning.
 
 - 🌱 If you want to begin the journey of a web/application developer , I would recommend this course on [UDEMY](https://www.udemy.com/course/the-web-developer-bootcamp/) 🥳
-- 📝 I’m looking to collaborate on Frontend or backend projects.
+- 📝 I’m looking to collaborate on Frontend or ~~backend projects~~.
 - ⚡  I’m currently working on a personal project [OFRIEND] well it's personal i cant disclose it's development stages as of now.
-- 💬 Ask me about anything on **JAVASCRIPT, CSS, SCSS, HTML, _LIFE_...**
+- 💬 Ask me about anything on **~~JAVASCRIPT~~, CSS, ~~SCSS~~, HTML, BOOTSTRAP and..._LIFE_..**
 - 👯 Checkout my other github repositories at [freestyletear](https://github.com/freestyletear?tab=repositories)
 
 ---
@@ -23,18 +37,30 @@
   <img src = "https://github-readme-streak-stats.herokuapp.com/?user=freestyletear&show_icons=true&theme=cobalt&locale=en&layout=compact">
 </a>
 <br><br>
-==
 
-## Here are a few more things about me:
+---
 
-- 📫 How to reach me: 
-- portfolio https://developerwilson.com/
-- email **_keithjame@gmail.com_**
-- phone: _Airtel-Kenya_ :- +254788507559
+## Special Thanks 🙇
+- [Moringa School](https://moringaschool.com) for shadding the light for not just me but the future...
 
-| [Linkedin](https://www.linkedin.com/in/WilsonKinyua/) |
-[Facebook](https://www.facebook.com/keithjamesowino/) |
-[Instagram](https://www.instagram.com/keithjames_themerchant/) |
-[Twitter](https://twitter.com/muthoniwilsonk) |
+## License **MIT**
 
+[![CC0](https://licensebuttons.net/l/publicdomain/88x31.png)](https://raw.githubusercontent.com/freestyletear/
+I-am-Keith-James-/master/LICENSE)
+
+---
+
+## 📫 Here are a few more guides on how to reach me:
+
+- portfolio https://freestyletear.github.io/Personal_Portfolio/
+- email <br>**_keithjame@gmail.com<br>freestyletear@gmail.com_**
+- phone: _Airtel-Kenya_ :- ~~+254788507559~~
+
+| [Linkedin](https://www.linkedin.com/in/keith-james-34a3041ba/) |
+[Facebook](https://web.facebook.com/keithjamesmerchantmagnifico/) |
+[Instagram](https://www.instagram.com/freestyletear/) |
+[Twitter](https://twitter.com/KeithJa90059609) |
+[Tik-tok](https://www.tiktok.com/@keithjames_themerchant?lang=en) |
+
+---
 ---
