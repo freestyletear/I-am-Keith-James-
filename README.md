@@ -1,5 +1,6 @@
 <h1 align="center">I am Keith James 😃</h1>
 <h3 align="center"> Currently studying front-end development/ designing soon to become either a Fullstack developer/ Android Developer or just a computer programmer</h3> 
+<h3 align="center">25th July 2021
 
 <div align="center">
 <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
@@ -35,11 +36,14 @@
 | https://freestyletear.github.io/Keith-_James_Delani_Studio/                |
 | https://freestyletear.github.io/Keith_James_Akan_Name_Generator/?gender=on |
 | https://freestyletear.github.io/BTRD_moringa/                              |
-</div>
-| And more to come...                                                       
+| And more to come...                                                        |
+</div>                                                     
 ---
 
 ## 🔭 My Github Stats
+### Languages and Tools i Have Come Across and Tackled
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://getbootstrap.com/" target="_blank"> <img src="https://miro.medium.com/max/2000/1*9HanDsRU11ZMsgDGJwN96w.png" alt="bootstrap" width="40" height="40"/> </a> <a href="https://jquery.com/" target="_blank"> <img src="https://cms-assets.tutsplus.com/uploads/users/30/posts/35633/preview_image/jquery-js.png" alt="jquery" width="40" height="40"/> </a> </p> 
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=freestyletear&show_icons=true&locale=en&layout=compact&theme=cobalt" alt="freestyletear github status on top languages used" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=freestyletear&show_icons=true&locale=en&theme=cobalt" alt="freestyletear github status on extra pins" /></p>
@@ -51,9 +55,43 @@
 <br><br>
 
 ---
+---
+### Development
+>Want to contribute? Great!
+
+To fix a bug or enhance an existing module, follow these steps:
+
+- Fork the repo reach out to (https://github.com/freestyletear/{in between here write the repository name}/fork)
+- Create a new branch (`git checkout -b improve-feature`)
+- Make the appropriate changes in the files
+- Add changes to reflect the changes made
+- Commit your changes (`git commit -am 'Improve feature'`)
+- Push to the branch (`git push origin improve-feature`)
+- Create a Pull Request 
+
+
+## Setup/Installation Requirements
+* To clone a repo to your machine 
+* `git clone https://github.com/freestyletear/{here write the repository name}`
+* `cd into the repo name`
+* Navigate to index.html  and open it on your favorite browser
+Your browser must be JavaScript enabled for this to work
+
+### Installation Medium
+1. Steady Network.
+2. Weblink
+3. Github account.
+---
+---
+### Bug / Feature Request
+
+If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue [here](https://github.com/freestyletear/{in between here write the repository name}/issues/new) by including your search query and the expected result.
+
+---
 
 ## Special Thanks 🙇
 - [Moringa School](https://moringaschool.com) for shadding the light for not just me but the future...
+- [Over view video of the school.](https://www.youtube.com/watch?v=AtozUZ_GZRw&t=173s)
 
 ## License **MIT**
 
