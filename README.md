@@ -15,6 +15,7 @@
 
 </div>
 
+---
  ### Hi there 👋,
 
  I am currently on the path of becoming computer programmer/ web developer/ designer and expanding more and more by the minute. I am based in Nairobi, Kenya. I decided to join this kind of career/ hobby path because i would love to be able to solve challenges with this kind of knowledge that i am gainning.
@@ -23,7 +24,9 @@
 - 📝 I’m looking to collaborate on Frontend or ~~backend projects~~.
 - ⚡  I’m currently working on a personal project [OFRIEND] well it's personal i cant disclose it's development stages as of now.
 - 💬 Ask me about anything on **~~JAVASCRIPT~~, CSS, ~~SCSS~~, HTML, BOOTSTRAP and..._LIFE_..**
-- 👯 Checkout my other github repositories at [freestyletear](https://github.com/freestyletear?tab=repositories), if this opption is not available then here is a list of some of the projects i have done:-
+- 👯 Checkout my other github repositories at [freestyletear](https://github.com/freestyletear?tab=repositories), if this option is not available then here is a list of some of the projects i have done:-
+
+<div align="center">
 
 | Link                                                                       |
 |:--------------------------------------------------------------------------:|
@@ -32,7 +35,8 @@
 | https://freestyletear.github.io/Keith-_James_Delani_Studio/                |
 | https://freestyletear.github.io/Keith_James_Akan_Name_Generator/?gender=on |
 | https://freestyletear.github.io/BTRD_moringa/                              |
-| And more to come...                                                        |
+</div>
+| And more to come...                                                       
 ---
 
 ## 🔭 My Github Stats
