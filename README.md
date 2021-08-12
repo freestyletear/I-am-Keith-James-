@@ -93,6 +93,7 @@ If you find a bug (the website couldn't handle the query and / or gave undesired
 ## Special Thanks 🙇
 - [Moringa School](https://moringaschool.com) for shadding the light for not just me but the future...
 - [Over view video of the school.](https://www.youtube.com/watch?v=AtozUZ_GZRw&t=173s)
+- [slumcode](http://slumcode.org/) for...being there, thanks team.
 
 ## License **MIT**
 
