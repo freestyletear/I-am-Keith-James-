@@ -101,7 +101,7 @@ If you find a bug (the website couldn't handle the query and / or gave undesired
 <p align="left"> <img src="https://raw.githubusercontent.com/freestyletear/I-am-Keith-James-/master/images/ms.png" alt="Image showcasing Moringa School logo" width="300" height="200"/>  <img src="https://raw.githubusercontent.com/freestyletear/I-am-Keith-James-/master/images/ms2.jpeg" alt="Image showcasing Moringa School Co-Founder" width="300" height="200"/> </p> 
 
 - [Slumcode](http://slumcode.org/) for...being there, thanks team.
-- [One of there your channels.](https://www.youtube.com/c/SlumcodeTV/featured)
+- [One of there YouTube channels.](https://www.youtube.com/c/SlumcodeTV/featured)
 
 <p align="left"> <img src="https://raw.githubusercontent.com/freestyletear/I-am-Keith-James-/master/images/sh.jpeg" alt="Image showcasing me and other students at Slumcode Hub" width="300" height="200"/>  <img src="https://raw.githubusercontent.com/freestyletear/I-am-Keith-James-/master/images/sh3.jpeg" alt="Image showcasing me and other students at Slumcode Hub" width="300" height="200"/> </p> 
 
