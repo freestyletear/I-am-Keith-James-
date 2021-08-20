@@ -53,7 +53,8 @@
 </a> </p>
 <br><br>
 
-### Languages and Tools i Have Come Across and Tackled
+
+<h3 align="center"> Languages and Tools i Have Come Across and Tackled </h3>
 <br>
 <p align="center"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://getbootstrap.com/" target="_blank"> <img src="https://miro.medium.com/max/2000/1*9HanDsRU11ZMsgDGJwN96w.png" alt="bootstrap" width="40" height="40"/> </a> <a href="https://jquery.com/" target="_blank"> <img src="https://cms-assets.tutsplus.com/uploads/users/30/posts/35633/preview_image/jquery-js.png" alt="jquery" width="40" height="40"/> </a> <a href="https://angular.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/250px-Angular_full_color_logo.svg.png" alt="angular" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://laracasts.s3.amazonaws.com/series/thumbnails/typescript-for-beginners.png" alt="typescript" width="40" height="40"/> </a> <a href="https://code.visualstudio.com/docs/supporting/FAQ" target="_blank"> <img src="https://miro.medium.com/max/1200/1*u9Rw2zT1kQl0I0Oa-9vc_g.png" alt="vs code" width="40" height="40"/> </a> </p>
 
@@ -90,7 +91,7 @@ Your browser must be JavaScript enabled for this to work
 ---
 ### Bug / Feature Request
 
-If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue [here](https://github.com/freestyletear/{in between here write the repository name}/issues/new) by including your search query and the expected result.
+If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue here >(https://github.com/freestyletear/{in between here write the repository name}/issues/new)Like let's say i have a repository called my-portfolio oppening the issue page will be  https://github.com/freestyletear/my-portfolio-/issues/new     will be by including your search query and the expected result.
 
 ---
 
