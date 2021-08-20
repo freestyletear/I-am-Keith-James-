@@ -42,20 +42,22 @@
 ---
 
 ## 🔭 My Github Stats
-### Languages and Tools i Have Come Across and Tackled
-<p align="center"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://getbootstrap.com/" target="_blank"> <img src="https://miro.medium.com/max/2000/1*9HanDsRU11ZMsgDGJwN96w.png" alt="bootstrap" width="40" height="40"/> </a> <a href="https://jquery.com/" target="_blank"> <img src="https://cms-assets.tutsplus.com/uploads/users/30/posts/35633/preview_image/jquery-js.png" alt="jquery" width="40" height="40"/> </a> <a href="https://angular.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/250px-Angular_full_color_logo.svg.png" alt="angular" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://laracasts.s3.amazonaws.com/series/thumbnails/typescript-for-beginners.png" alt="typescript" width="40" height="40"/> </a> <a href="https://code.visualstudio.com/docs/supporting/FAQ" target="_blank"> <img src="https://miro.medium.com/max/1200/1*u9Rw2zT1kQl0I0Oa-9vc_g.png" alt="vs code" width="40" height="40"/> </a> </p>
+<br>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=freestyletear&show_icons=true&locale=en&layout=compact&theme=cobalt" alt="freestyletear github status on top languages used" /></p>
 
-<p align="center"> <a href="https://en.wikipedia.org/wiki/Atom_(text_editor)" target="_blank"> <img src="https://download.softwsp.com/sites/13/2017/04/icon-atom.png" alt="atom" width="40" height="40"/> </a> <a href="https://www.theme-junkie.com/what-is-figma/" target="_blank"> <img src="https://image.topuwp.com/icon/2020-04-24/eec15c26939935795728ade75c3fff64.png" alt="figma" width="40" height="40"/> </a> <a href="https://help.miro.com/hc/en-us/articles/360017730533-What-Is-Miro-" target="_blank"> <img src="https://www.uxlift.org/assets/images/miro.png" alt="miro" width="40" height="40"/> </a> </p>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=freestyletear&show_icons=true&locale=en&layout=compact&theme=cobalt" alt="freestyletear github status on top languages used" /></p>
-
-<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=freestyletear&show_icons=true&locale=en&theme=cobalt" alt="freestyletear github status on extra pins" /></p>
+<p align="left">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=freestyletear&show_icons=true&locale=en&theme=cobalt" alt="freestyletear github status on extra pins" /></p>
 
 
-<p align="center"> <a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=freestyletear&show_icons=true&theme=cobalt">
+<p align="left"> <a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=freestyletear&show_icons=true&theme=cobalt">
   <img src = "https://github-readme-streak-stats.herokuapp.com/?user=freestyletear&show_icons=true&theme=cobalt&locale=en&layout=compact">
 </a> </p>
 <br><br>
+
+### Languages and Tools i Have Come Across and Tackled
+<br>
+<p align="center"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://getbootstrap.com/" target="_blank"> <img src="https://miro.medium.com/max/2000/1*9HanDsRU11ZMsgDGJwN96w.png" alt="bootstrap" width="40" height="40"/> </a> <a href="https://jquery.com/" target="_blank"> <img src="https://cms-assets.tutsplus.com/uploads/users/30/posts/35633/preview_image/jquery-js.png" alt="jquery" width="40" height="40"/> </a> <a href="https://angular.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/250px-Angular_full_color_logo.svg.png" alt="angular" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://laracasts.s3.amazonaws.com/series/thumbnails/typescript-for-beginners.png" alt="typescript" width="40" height="40"/> </a> <a href="https://code.visualstudio.com/docs/supporting/FAQ" target="_blank"> <img src="https://miro.medium.com/max/1200/1*u9Rw2zT1kQl0I0Oa-9vc_g.png" alt="vs code" width="40" height="40"/> </a> </p>
+
+<p align="center"> <a href="https://en.wikipedia.org/wiki/Atom_(text_editor)" target="_blank"> <img src="https://download.softwsp.com/sites/13/2017/04/icon-atom.png" alt="atom" width="40" height="40"/> </a> <a href="https://www.theme-junkie.com/what-is-figma/" target="_blank"> <img src="https://image.topuwp.com/icon/2020-04-24/eec15c26939935795728ade75c3fff64.png" alt="figma" width="40" height="40"/> </a> <a href="https://help.miro.com/hc/en-us/articles/360017730533-What-Is-Miro-" target="_blank"> <img src="https://www.uxlift.org/assets/images/miro.png" alt="miro" width="40" height="40"/> </a> </p>
 
 ---
 ---
