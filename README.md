@@ -24,7 +24,7 @@
 - 🌱 If you want to begin the journey of a web/application developer , I would recommend this course on [UDEMY](https://www.udemy.com/course/the-web-developer-bootcamp/) 🥳
 - 📝 I’m looking to collaborate on Frontend or ~~backend projects~~.
 - ⚡  I’m currently working on a personal project [OFRIEND] well it's personal i cant disclose it's development stages as of now.
-- 💬 Ask me about anything on **~~JAVASCRIPT~~, CSS, ~~SCSS~~, HTML, BOOTSTRAP and..._LIFE_..**
+- 💬 Ask me about anything on **~~JAVASCRIPT~~, CSS, ~~SCSS~~, HTML, BOOTSTRAP, ~~ANGULAR~~, ~~PYTHON~~, ~~FLASK~~ and..._LIFE_..**
 - 👯 Checkout my other github repositories at [freestyletear](https://github.com/freestyletear?tab=repositories), if this option is not available then here is a list of some of the projects i have done:-
 
 <div align="center">
@@ -40,6 +40,7 @@
 | https://github.com/freestyletear/password_locker                           |
 | https://freestyletear.github.io/git-search-api/user                        |
 | https://github.com/freestyletear/contact_tracker                           |
+| https://top-pic.herokuapp.com/                                             |
 | And more to come...                                                        |
 </div>                                                     
 ---
@@ -61,7 +62,7 @@
 <br>
 <p align="center"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://getbootstrap.com/" target="_blank"> <img src="https://miro.medium.com/max/2000/1*9HanDsRU11ZMsgDGJwN96w.png" alt="bootstrap" width="40" height="40"/> </a> <a href="https://jquery.com/" target="_blank"> <img src="https://cms-assets.tutsplus.com/uploads/users/30/posts/35633/preview_image/jquery-js.png" alt="jquery" width="40" height="40"/> </a> <a href="https://angular.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/250px-Angular_full_color_logo.svg.png" alt="angular" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://laracasts.s3.amazonaws.com/series/thumbnails/typescript-for-beginners.png" alt="typescript" width="40" height="40"/> </a> <a href="https://code.visualstudio.com/docs/supporting/FAQ" target="_blank"> <img src="https://miro.medium.com/max/1200/1*u9Rw2zT1kQl0I0Oa-9vc_g.png" alt="vs code" width="40" height="40"/> </a> </p>
 
-<p align="center"> <a href="https://en.wikipedia.org/wiki/Atom_(text_editor)" target="_blank"> <img src="https://download.softwsp.com/sites/13/2017/04/icon-atom.png" alt="atom" width="40" height="40"/> </a> <a href="https://www.theme-junkie.com/what-is-figma/" target="_blank"> <img src="https://image.topuwp.com/icon/2020-04-24/eec15c26939935795728ade75c3fff64.png" alt="figma" width="40" height="40"/> </a> <a href="https://help.miro.com/hc/en-us/articles/360017730533-What-Is-Miro-" target="_blank"> <img src="https://www.uxlift.org/assets/images/miro.png" alt="miro" width="40" height="40"/> </a> <a href="https://www.w3schools.com/python/default.asp" target="_blank"> <img src="https://images.ctfassets.net/mrop88jh71hl/55rrbZfwMaURHZKAUc5oOW/9e5fe805eb03135b82e962e92169ce6d/python-programming-language.png" alt="python" width="40" height="40"/> </a> </p>
+<p align="center"> <a href="https://en.wikipedia.org/wiki/Atom_(text_editor)" target="_blank"> <img src="https://download.softwsp.com/sites/13/2017/04/icon-atom.png" alt="atom" width="40" height="40"/> </a> <a href="https://www.theme-junkie.com/what-is-figma/" target="_blank"> <img src="https://image.topuwp.com/icon/2020-04-24/eec15c26939935795728ade75c3fff64.png" alt="figma" width="40" height="40"/> </a> <a href="https://help.miro.com/hc/en-us/articles/360017730533-What-Is-Miro-" target="_blank"> <img src="https://www.uxlift.org/assets/images/miro.png" alt="miro" width="40" height="40"/> </a> <a href="https://www.w3schools.com/python/default.asp" target="_blank"> <img src="https://images.ctfassets.net/mrop88jh71hl/55rrbZfwMaURHZKAUc5oOW/9e5fe805eb03135b82e962e92169ce6d/python-programming-language.png" alt="python" width="40" height="40"/> </a> <a href="https://www.heroku.com/about" target="_blank"> <img src="https://uploads.sitepoint.com/wp-content/uploads/2016/04/1461122387heroku-logo.jpg" alt="python" width="40" height="40"/> </a> <a href="https://docs.github.com/en" target="_blank"> <img src="https://github.githubassets.com/images/modules/open_graph/github-octocat.png" alt="python" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank"> <img src="https://e7.pngegg.com/pngimages/654/56/png-clipart-flask-web-framework-python-software-framework-jinja-flask-miscellaneous-monochrome-thumbnail.png" alt="python" width="40" height="40"/> </a> </p>
 
 ---
 ---
@@ -97,17 +98,29 @@ Your browser must be JavaScript enabled for this to work
 If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue here >(https://github.com/freestyletear/{in between here write the repository name}/issues/new)Like let's say i have a repository called my-portfolio oppening the issue page will be  https://github.com/freestyletear/my-portfolio-/issues/new     will be by including your search query and the expected result.
 
 ---
-
 ## Special Thanks 🙇
+- [Karen 'C' Primary School](https://www.kenyaprimaryschools.com/nairobi/karen-c-primary-school-langata-kibera/) for letting me enjoy most of my youthfull age...
+
+[<img src="https://raw.githubusercontent.com/freestyletear/portfolio-first-update/master/IMG/kcp1.jpeg" alt="Image showcasing Karen `c` Primary School main hole" width="300" height="200"/>]( https://www.kenyaprimaryschools.com/nairobi/karen-c-primary-school-langata-kibera/ "Karen 'c' Primary School main hole")
+[<img src="https://raw.githubusercontent.com/freestyletear/portfolio-first-update/master/IMG/kcp5.jpg" alt="Image showcasing Karen `C` Primary School students the year of 2014" width="300" height="200"/>]( https://www.kenyaprimaryschools.com/nairobi/karen-c-primary-school-langata-kibera/ "Karen `C` Primary School students the year of 2014")
+
+- [ST. Barnabas Anyiko Mixed Secondary School](https://teacher.ac/st-barnabas-anyiko-secondary-school-contacts-location-and-2019-kcse-results/) for Eeeh! for Nocking me out a few time for this and that, which was realy worth the living...
+
+[<img src="https://raw.githubusercontent.com/freestyletear/portfolio-first-update/master/IMG/sbam1.jpeg" alt="Image showcasing a shallow image of ST. Barnabas Anyiko Mixed Secondary School" width="300" height="200"/> ]( https://teacher.ac/st-barnabas-anyiko-secondary-school-contacts-location-and-2019-kcse-results/ "shallow image of ST. Barnabas Anyiko Mixed Secondary School")
+[<img src="https://raw.githubusercontent.com/freestyletear/portfolio-first-update/master/IMG/sbam2.jpg" alt="Image showcasing ST. Barnabas Anyiko Mixed Secondary School students of the year 2018 at the school laboratory" width="300" height="200"/>]( hhttps://teacher.ac/st-barnabas-anyiko-secondary-school-contacts-location-and-2019-kcse-results/ "ST. Barnabas Anyiko Mixed Secondary School students of the year 2018 at the school laboratory")
+
 - [Moringa School](https://moringaschool.com) for shadding the light for not just me but the future...
 - [Over view video of the school.](https://www.youtube.com/watch?v=AtozUZ_GZRw&t=173s)
 
-<p align="left"> <img src="https://raw.githubusercontent.com/freestyletear/I-am-Keith-James-/master/images/ms.png" alt="Image showcasing Moringa School logo" width="300" height="200"/>  <img src="https://raw.githubusercontent.com/freestyletear/I-am-Keith-James-/master/images/ms2.jpeg" alt="Image showcasing Moringa School Co-Founder" width="300" height="200"/> </p> 
+[<img src="https://raw.githubusercontent.com/freestyletear/I-am-Keith-James-/master/images/ms.png" alt="Image showcasing Moringa School logo" width="300" height="200"/> ]( https://moringaschool.com "Moringa School logo")
+[<img src="https://raw.githubusercontent.com/freestyletear/I-am-Keith-James-/master/images/ms2.jpeg" alt="Image showcasing Moringa School Co-Founder" width="300" height="200"/> ]( https://moringaschool.com "Moringa School Co-Founder")
 
 - [Slumcode](http://slumcode.org/) for...being there, thanks team.
 - [One of there YouTube channels.](https://www.youtube.com/c/SlumcodeTV/featured)
 
-<p align="left"> <img src="https://raw.githubusercontent.com/freestyletear/I-am-Keith-James-/master/images/sh.jpeg" alt="Image showcasing me and other students at Slumcode Hub" width="300" height="200"/>  <img src="https://raw.githubusercontent.com/freestyletear/I-am-Keith-James-/master/images/sh3.jpeg" alt="Image showcasing me and other students at Slumcode Hub" width="300" height="200"/> </p> 
+[<img src="https://raw.githubusercontent.com/freestyletear/I-am-Keith-James-/master/images/sh.jpeg" alt="Image showcasing me and other students at Slumcode Hub" width="300" height="200"/>]( http://slumcode.org/ "me and other students at Slumcode Hub")
+[<img src="https://raw.githubusercontent.com/freestyletear/I-am-Keith-James-/master/images/sh3.jpeg" alt="Image showcasing me and other students at Slumcode Hub" width="300" height="200"/>]( http://slumcode.org/ "me and other students at Slumcode Hub")
+
 
 ## License **MIT**
 
